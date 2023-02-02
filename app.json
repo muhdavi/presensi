@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "64cbb667-6b08-4893-9c79-c576edde2535"
+      }
+    },
+    "owner": "muhdavi"
   }
 }
